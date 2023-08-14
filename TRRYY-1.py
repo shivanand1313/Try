@@ -1,7 +1,7 @@
 
 1# KBC Game
 b1 = "Mumbai"
-a1 = "Shiv"
+a1 = "Shiva"
 a2 = "Start - up"
 a3 = "25"
 listq = ["What is Capital of Maharashtra? ", "What is my Name? ", "What is my Goal?", "What is my Age?"]
