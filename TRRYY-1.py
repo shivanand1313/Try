@@ -1,12 +1,12 @@
 
 1# KBC Game
 b1 = "Mumbai"
-a1 = "Shiva"
+a1 = "Shiv"
 a2 = "Start - up"
 a3 = "25"
 listq = ["What is Capital of Maharashtra? ", "What is my Name? ", "What is my Goal?", "What is my Age?"]
 listans = [b1, a1, a2, a3]
-opt1 = ["Nagpur", "Arya", "N_Core Job", "18"]
+opt1 = ["Nagpur", "Aarya", "N_Core Job", "18"]
 opt2 = ["Pune", "Sai", "Core Job", "28"]
 opt3 = ["Nashik", "Raj", "Nothing", "32"]
 t = 0
